@@ -39,5 +39,5 @@ General dataset API has three main kind of interfaces:
 - ***scipy.io.wavfile.read*** specializes reading WAV file into a numpy array.
 
 
-> For managing numerical data, sklearn recommends using an optimized file format such as **HDF5**(Hierarchical Data Formation version 5) to reduce data load times.
+> For managing numerical data, sklearn recommends using an optimized file format such as **HDF5**(Hierarchical Data Formation version 5 to reduce data load times.
 > Pandas, PY Tables and H5PY provides an interface to read and write in that format
