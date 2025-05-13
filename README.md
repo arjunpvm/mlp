@@ -1,8 +1,7 @@
 # Machine Learning Programming
 
-### week 0:
-* basic numpy commands
-* basics of matplotlib
-
 ### week 1:
-* 
+* Pandas Series and DataFrames
+* Data selection using Pandas
+* Drop in DataFrame
+* Apply Statistics using Pandas
